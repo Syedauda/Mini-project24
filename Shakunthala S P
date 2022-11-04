@@ -1,0 +1,4 @@
+import pandas as pd 
+n1=pd.series([1,2,3,4,5,6])
+n1[3]
+extracting elements from back
